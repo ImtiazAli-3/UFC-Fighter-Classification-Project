@@ -1,0 +1,1 @@
+Project to build a regression model to predict if a fighter is more likely to win a fight due to stance, height-weight ratio, significant strikes accuracy, landed and absorbed, takedown accuracy, landed and defended and submission attempts. 
